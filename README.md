@@ -5,4 +5,4 @@ Rust Language. It is still in early development.
 # Build
 - Open terminal
 - Navigate to the project folder
-- Run `cargo build`
+- Run `cargo run`
