@@ -1,2 +1,8 @@
 # rustGPU
-Simple graphics engine with WebGPU to learn wgpu. It is still in development
+rustGPU is a simple graphics engine to learn wgpu and graphics programming in
+Rust Language. It is still in early development.
+
+# Build
+- Open terminal
+- Navigate to the project folder
+- Run `cargo build`
