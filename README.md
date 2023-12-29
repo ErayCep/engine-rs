@@ -1,5 +1,5 @@
-# rustGPU
-rustGPU is a simple graphics engine I'm developing to learn wgpu and graphics programming in
+# engine-rs
+engine-rs is a simple graphics engine I'm developing to learn wgpu and graphics programming in
 Rust Language. It is still in early development.
 
 # Build

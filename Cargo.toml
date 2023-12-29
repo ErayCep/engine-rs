@@ -1,5 +1,5 @@
 [package]
-name = "rust_gpu"
+name = "engine-rs"
 version = "0.1.0"
 edition = "2021"
 
@@ -17,6 +17,7 @@ wgpu = "0.17"
 pollster = "0.3"
 bytemuck = { version = "1.12", features = [ "derive" ] }
 anyhow = "1.0"
+cgmath = "0.18"
 
 [target.'cfg(target_arch = "wasm32")'.dependencies]
 console_error_panic_hook = "0.1.6"
